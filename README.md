@@ -1,2 +1,9 @@
-# kubepwd
-Kubernetes port forwarder in simple cli
+# Kubewd
+
+### Userflow
+
+- First determine Namespace
+
+
+
+
