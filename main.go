@@ -27,6 +27,18 @@ func errorcheck(err error)  {
 }
 
 func main() {
+//	- List all kubernetes namespaces
+
+//	- First determine Namespace
+
+//	- Chose pod or service
+
+//	- List Pod or Service
+
+//	- List Ports
+
+//	- Chose one port , ask local port or different port
+
 	prompt := promptui.Select{
 		Label: "Select",
 		Items: []string{"Post Forward Start", "Port Forward Stop", "New Port Rule"},
